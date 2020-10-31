@@ -1,2 +1,2 @@
 # gitprocess
-This org is managed by tradecoder
+GitProcess is managed by thetradecoder.
